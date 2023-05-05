@@ -7,10 +7,16 @@
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </div>
 
-<div id="header" align="left">Hi, I’m Noor. I’m interested in programming and currently learning MERN stack.
+<div align="center">
+  Hi, I’m Noor. I’m interested in programming and currently learning MERN stack.
+ </div>
+ <div align="center">
+   Reach me out through my social handles
+ </div>
+  
+<div id="header" align="right">
   <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="100"/>
 </div>
-Reach me out through my social handles
 
 <!---
 Noorlogs/Noorlogs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
